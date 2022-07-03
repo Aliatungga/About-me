@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aliatungga
-- 👀 I’m interested in statistics, finance, marketing and data. 
+- 👀 I am interested in data. Love working with numbers, analysis of things, statistics, problem solving, and critical thinking. 
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data 
-- 📫 You can reach out me!
+- 💞️ I’m looking to collaborate on data/data scientists/data analyst/ product analyst/data-related job within a company that offers flexibility and opportunity to grow both personally and professionally.
+- 📫 let's work together!
 aliatungga.atd@gmail.com
 https://www.linkedin.com/in/aliatunggadewi
 
