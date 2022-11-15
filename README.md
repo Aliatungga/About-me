@@ -5,6 +5,7 @@
 - 📫 let's work together!
 aliatungga.atd@gmail.com
 https://www.linkedin.com/in/aliatunggadewi
+https://docs.google.com/presentation/d/1ycGe8-t3O5DgAHKmsjsxNli0v5wwB-yBcT-t9Es3u8Y/edit?usp=sharing
 
 <!---
 Aliatungga/Aliatungga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
