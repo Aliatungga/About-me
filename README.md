@@ -5,6 +5,7 @@
 - 📫 let's work together!
 aliatungga.atd@gmail.com
 https://www.linkedin.com/in/aliatunggadewi
+MY Portofolio
 https://docs.google.com/presentation/d/1ycGe8-t3O5DgAHKmsjsxNli0v5wwB-yBcT-t9Es3u8Y/edit?usp=sharing
 
 <!---
