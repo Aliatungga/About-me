@@ -1,5 +1,5 @@
-# About-me
-Config files for my GitHub profile.
+# About me
+
 - 👋 Hi, I’m Alia Tungga Dewi
 - 👀 i'm pursuing pursuing student with a bachelor degree in Accounting at Indonesia Islamic University.
 - 👀 I am interested in data. Love working with numbers, analysis of things, statistics, problem solving, and critical thinking. 
