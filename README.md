@@ -13,6 +13,9 @@
 📫 MY Portofolio
 - https://docs.google.com/presentation/d/1ycGe8-t3O5DgAHKmsjsxNli0v5wwB-yBcT-t9Es3u8Y/edit?usp=sharing
 
+📫 MY Resume 
+- https://github.com/Aliatungga/About-me/blob/main/Resume%20Alia%20Tungga%20Dewi.pdf 
+
 <!---
 Aliatungga/Aliatungga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
