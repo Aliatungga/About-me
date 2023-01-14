@@ -14,7 +14,7 @@
 - https://docs.google.com/presentation/d/1ycGe8-t3O5DgAHKmsjsxNli0v5wwB-yBcT-t9Es3u8Y/edit?usp=sharing
 
 📫 MY Resume 
-- https://github.com/Aliatungga/About-me/blob/main/Resume%20Alia%20Tungga%20Dewi.pdf 
+- https://www.canva.com/design/DAFBHHvx41A/_G8Ao3AeER6dfTzOuCnbbA/view?utm_content=DAFBHHvx41A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <!---
 Aliatungga/Aliatungga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
